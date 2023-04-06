@@ -10,3 +10,5 @@ Vous pouvez y retrouver notamment :
   - Séances de santé (respiration)
   
 J'y ai contribué en créant et gérant la liste de tâches.
+
+Vous pouvez retrouver ce projet à cette adresse : https://github.com/Guetguet6/bubble
